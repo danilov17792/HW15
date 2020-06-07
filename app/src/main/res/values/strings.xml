@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="empty_list">Empty list</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="three_fragment_label">Three Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment</string>
+    <string name="three">Третья</string>
+    <string name="search_town">Поиск</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="move_3rd_to_1st">move_3rd_to_1st</string>
+    <string name="clear_list">clear_list</string>
+</resources>
