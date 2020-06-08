@@ -17,7 +17,7 @@
         android:paddingBottom="8dp"
         android:lines="1"
         android:ellipsize="end"
-        tools:text="Item text"
+        tools:text="Привет"
         tools:ignore="UnusedAttribute" />
 
 </LinearLayout>
