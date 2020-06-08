@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity implements IRVOnItemClick{
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate ( savedInstanceState );
         setContentView ( R.layout.activity_main);
+        initViews();
+        setupRecyclerView();
         Toolbar toolbar = findViewById ( R.id.toolbar );
         setSupportActionBar ( toolbar );
 
@@ -42,8 +44,6 @@ public class MainActivity extends AppCompatActivity implements IRVOnItemClick{
                         .setAction ( "Action", null ).show ();
             }
         } );
-        initViews();
-        setupRecyclerView();
     }
 
 
